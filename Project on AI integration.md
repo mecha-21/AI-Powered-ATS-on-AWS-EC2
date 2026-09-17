@@ -4,7 +4,7 @@ AI Integration with Python — Building an AI-Powered ATS Resume Scanner & Job M
 [![Cloud: AWS EC2](https://img.shields.io/badge/Cloud-AWS_EC2_Ubuntu-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](README.md)
 [![AI: Google Gemini](https://img.shields.io/badge/AI_Model-Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)](README.md)
 [![Frontend: Streamlit](https://img.shields.io/badge/Frontend-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](README.md)
-[![Batch: DevOps-44](https://img.shields.io/badge/Batch-DevOps--44-blueviolet?style=for-the-badge)](README.md)
+
 
 ## Table of Contents
 

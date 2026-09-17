@@ -6,10 +6,6 @@ AI Integration with Python — Building an AI-Powered ATS Resume Scanner & Job M
 [![Frontend: Streamlit](https://img.shields.io/badge/Frontend-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](README.md)
 [![Batch: DevOps-44](https://img.shields.io/badge/Batch-DevOps--44-blueviolet?style=for-the-badge)](README.md)
 
----
-> [🏠 Master Learning Index](README.md) | [📖 All Summaries](README.md)
----
-
 ## Table of Contents
 
 1. [Project Overview & Core Objective](#1-project-overview--core-objective)

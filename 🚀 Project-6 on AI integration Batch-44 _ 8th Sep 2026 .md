@@ -1,4 +1,4 @@
-# Project 6: AI Integration with Python — Building an AI-Powered ATS Resume Scanner & Job Matcher on AWS EC2
+ AI Integration with Python — Building an AI-Powered ATS Resume Scanner & Job Matcher on AWS EC2
 
 [![Module: AI & Python Automation](https://img.shields.io/badge/Module-AI_%26_Python_Automation-8A2BE2?style=for-the-badge&logo=python&logoColor=white)](README.md)
 [![Cloud: AWS EC2](https://img.shields.io/badge/Cloud-AWS_EC2_Ubuntu-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](README.md)
